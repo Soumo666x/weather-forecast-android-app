@@ -65,7 +65,7 @@ weather-forecast-android-app
 1. Clone the repository
 
 
-git clone https://github.com/yourusername/weather-forecast-android-app.git
+git clone https://github.com/Soumo666x/weather-forecast-android-app.git
 
 
 2. Open the project in **Android Studio**
